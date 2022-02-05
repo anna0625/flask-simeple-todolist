@@ -1,0 +1,32 @@
+html {
+    font-size: 62.5%;
+}
+
+body {
+    margin: 0;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 3rem;
+}
+
+.content {
+    text-align: center;
+}
+
+table {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+table, th, td {
+    border: 1px solid white;
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    background-color: #96D4D4;
+  }
+
+  form {
+      margin: 1rem;
+  }
